@@ -3,7 +3,7 @@ print("=== QUIZ DE VOLEI ===")
 pontuacao = 0
 
 # pergunta 1
-print("\n1) Quantos jogadores cada time te em quadra no volei?")
+print("\n1) Quantos jogadores cada time tem em quadra no volei?")
 print("a) 5")
 print("b) 6")
 print("c) 7")
@@ -36,7 +36,7 @@ print("a) 2")
 print("b) 3")
 print("c) 5")
 
-resposta3 = input("Digitew a respoista: ")
+resposta3 = input("Digite a resposta: ")
 
 if resposta3 == "b":
     print("correto!")
