@@ -1,10 +1,10 @@
 #Calculador de Frete --
 def cabecalho():
-    print("\n" + "=" *30)
+    print("\n" + "=" * 30)
 
     print("SISTEMA DE LOGISTICA")
-def calcular_frete(peso):
-    if peso_carga >= 20 : 
+def calcular_frete(peso_carga):
+    if peso_carga <= 20 : 
         return peso_carga * 10.00
     else:
         return peso_carga * 15.00
