@@ -1,5 +1,5 @@
-vencedor = ["Lucas", "Davi", "Raphaela"]
+vencedores = ["Lucas", "Davi", "Raphaela"]
 
-print("🥇 ouro:", vencedor [0])
-print("🥈 prata:", vencedor [1])
-print("🥉 bronze:", vencedor [2])
+print("🥇 ouro:", vencedores [0])
+print("🥈 prata:", vencedores [1])
+print("🥉 bronze:", vencedores [2])
